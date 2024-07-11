@@ -24,7 +24,7 @@ email_subject = "Latest Invoice"
 smtp_server = 'smtp.gmail.com'
 smtp_port = 587
 smtp_username = "ucllqueue@gmail.com"  # Replace with your Gmail address
-smtp_password = "ewvbbohcpgmvjupe"  # Replace with your Gmail password
+smtp_password = ""  # Replace with your Gmail password
 
 # File path to the latest invoice PDF
 
